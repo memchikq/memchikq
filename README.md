@@ -1,20 +1,22 @@
-<h1 align="center">Привет, я начинающий разработчик front-end.</h1>
+## 👋 Привет, я Данил
 
-<p align="center">
-  <img src="https://your-image-url-here" alt="Профильная фотография">
-</p>
 
-<!--
-**memchikq/memchikq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Немного обо мне
 
-Here are some ideas to get you started:
+Я начинающий front-end разработчик. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Я занимаюсь разработкой веб сайтов на javascript, React, Vue.
+- 💻 Моя любимая технология - React.
+- 🌱 В настоящее время изучаю Next.js и Vue.
+- 🎨 Мне нравится создавать интерфейсы, которые красивы и удобны для пользователей.
+
+## Что я использую в разработке
+
+![icon](https://img.icons8.com/?size=32&id=20909&format=png)
+![icon](https://img.icons8.com/?size=32&id=21278&format=png)
+![icon](https://img.icons8.com/?size=32&id=108784&format=png)
+![icon](https://img.icons8.com/?size=32&id=uJM6fQYqDaZK&format=png)
+![icon](https://img.icons8.com/?size=32&id=NfbyHexzVEDk&format=png)
+![icon](https://img.icons8.com/?size=32&id=54087&format=png)
+
+
