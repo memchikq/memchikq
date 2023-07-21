@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Привет, я начинающий разработчик front-end.</h1>
+
+<p align="center">
+  <img src="https://your-image-url-here" alt="Профильная фотография">
+</p>
 
 <!--
 **memchikq/memchikq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
