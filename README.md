@@ -17,6 +17,7 @@
 ![icon](https://img.icons8.com/?size=32&id=108784&format=png)
 ![icon](https://img.icons8.com/?size=32&id=uJM6fQYqDaZK&format=png)
 ![icon](https://img.icons8.com/?size=32&id=NfbyHexzVEDk&format=png)
+![icon](https://img.icons8.com/?size=32&id=jD-fJzVguBmw&format=png)
 ![icon](https://img.icons8.com/?size=28&id=eETV3RNHVrWA&format=png)
 ![icon](https://img.icons8.com/?size=32&id=54087&format=png)
 
