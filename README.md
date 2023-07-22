@@ -24,7 +24,9 @@
 ## Мои проекты
 
 [Проект 1](https://github.com/memchikq/TestsToYou) - Сайт для создания тестов (React, MUI).
-[Проект 1](https://github.com/memchikq/sweets) - Кондитерский сайт (Next js 13, typescript).
-[Проект 1](https://github.com/memchikq/contentych) - Сайт для создания разделов и тематик (React, typescript, tailwind ccs ).
+
+[Проект 2](https://github.com/memchikq/sweets) - Кондитерский сайт (Next js 13, typescript).
+
+[Проект 3](https://github.com/memchikq/contentych) - Сайт для создания разделов и тематик (React, typescript, tailwind ccs ).
 
 
