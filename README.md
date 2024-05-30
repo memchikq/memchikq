@@ -21,12 +21,6 @@
 ![icon](https://img.icons8.com/?size=28&id=eETV3RNHVrWA&format=png)
 ![icon](https://img.icons8.com/?size=32&id=54087&format=png)
 
-## Мои проекты
 
-[Проект 1](https://github.com/memchikq/TestsToYou) - Сайт для создания тестов (React, MUI).
-
-[Проект 2](https://github.com/memchikq/sweets) - Кондитерский сайт (Next js 13, typescript).
-
-[Проект 3](https://github.com/memchikq/contentych) - Сайт для создания разделов и тематик (React, typescript, tailwind ccs ).
 
 
